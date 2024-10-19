@@ -7,8 +7,6 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit7645" alt="harshit7645" /></a> </p>
 
-- 🔭 I’m currently working on [GeminiPlus](https://github.com/Harshit7645/GeminiPlus)
-
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
 - 💬 Ask me about **React, Javascript, Typescript**
